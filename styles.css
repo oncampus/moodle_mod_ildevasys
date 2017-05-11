@@ -1,0 +1,25 @@
+.ildevasys .mod-indent-outer {
+    display: block !important;
+}
+
+.ildevasys .contentwithoutlink {
+    display: block !important;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.ildevasys span.title {
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: underline;
+    color: #275E8F;
+}
+
+.ildevasys .text {
+    text-align: center;
+}
+
+.ildevasys .no-overflow img {
+    display: block;
+    margin: 0 auto;
+}
